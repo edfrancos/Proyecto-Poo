@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Icono_check.png</file>
+    <file>Icon_fox.png</file>
+    <file>Icon_caracol.png</file>
+    <file>Icon_verificado.png</file>
+    <file>Icon_entrar.png</file>
+    <file>Icon_login.png</file>
+    <file>Icon_cartoon.png</file>
+    <file>Icon_rcn.png</file>
+    <file>Icon_registrar.png</file>
+    <file>Icon_salir.png</file>
+  </qresource>
+</RCC>
